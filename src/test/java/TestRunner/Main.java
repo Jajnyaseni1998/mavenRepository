@@ -7,4 +7,7 @@ public class Main
     {
         System.out.println( "Hello World!" );
     }
+    public void state() {
+    	System.out.println("hii");
+    }
 }
